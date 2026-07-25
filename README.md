@@ -1,16 +1,15 @@
-## Hi there 👋
+#### 🛠️ Tech Stack
+* **Languages:** Kotlin, Python, Java, JavaScript, TypeScript, HTML/CSS
+* **Frameworks & Tools:** Jetpack Compose, Git, Linux, HTMX, Tauri, React, Electron
 
-<!--
-**dragon-Elec/dragon-Elec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🚀 Featured Projects
 
-Here are some ideas to get you started:
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[Imbric](https://github.com/dragon-Elec/Imbric)** | Modern, multiplatform file manager with native OS integration. | Kotlin, Jetpack Compose |
+| **[SpaceBoard](https://github.com/dragon-Elec/space-board)** | GPU-accelerated treemap engine for massive datasets. | QML, Python |
+| **NNS** | Neural background noise suppression designed for low-end hardware. | Rust, Python |
+| **[Z-RAM Manager](https://github.com/dragon-Elec/z-manager)** | Linux utility to simplify swap devices and hibernation management. | Python, Rust, HTML/CSS, Svelte |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 Connect & Contact
+* **Email:** [yr9389121@gmail.com](mailto:yr9389121@gmail.com)
