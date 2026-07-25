@@ -1,14 +1,16 @@
-<p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Yash Kumar - Portfolio">
-</p>
-
-### 📊 GitHub Statistics
-
-<p align="left">
-  <a href="https://github.com/dragon-Elec">
-    <img src="https://github-readme-stats.vercel.app/api?username=dragon-Elec&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="130">
+      <img src="https://avatars.githubusercontent.com/u/197374270?v=4" width="120" style="border-radius: 4px;" />
+    </td>
+    <td valign="top">
+      <h1>Yash Kumar</h1>
+      <p><strong>Software Developer | Final-Year BCA Student</strong></p>
+      <p>Specializing in high-performance system utilities, multiplatform applications, and clean architecture. Focused on Kotlin, Python, Rust, and native OS integrations.</p>
+      <p>🎓 Mangalayatan University, Aligarh (Expected Oct 2026) | 📧 <a href="mailto:yr9389121@gmail.com">yr9389121@gmail.com</a></p>
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Tech Stack
 
@@ -24,6 +26,3 @@
 | **[SpaceBoard](https://github.com/dragon-Elec/space-board)** | GPU-accelerated treemap engine for massive datasets. | QML, Python |
 | **NNS** | Neural background noise suppression designed for low-end hardware. | Rust, Python |
 | **[Z-RAM Manager](https://github.com/dragon-Elec/z-manager)** | Linux utility to simplify swap devices and hibernation management. | Python, Rust, HTML/CSS, Svelte |
-
-#### 📫 Connect & Contact
-* **Email:** [yr9389121@gmail.com](mailto:yr9389121@gmail.com)
