@@ -18,9 +18,6 @@
   <a href="https://github.com/dragon-Elec">
     <img src="https://github-readme-stats.vercel.app/api?username=dragon-Elec&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
   </a>
-  <a href="https://github.com/dragon-Elec">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragon-Elec&theme=dark&hide_border=true" height="150" />
-  </a>
 </p>
 
 ### 🛠️ Tech Stack
