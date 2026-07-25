@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="130" viewBox="0 0 400 130">
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 600; fill: #58a6ff; }
+    .desc { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 14px; fill: #8b949e; }
+    .tech { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 12px; fill: #c9d1d9; }
+    .card { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 6; }
+  </style>
+  <rect class="card" width="398" height="128" x="1" y="1" />
+  <text x="20" y="35" class="title">Z-RAM Manager</text>
+  <text x="20" y="65" class="desc">Linux utility to simplify swap devices</text>
+  <text x="20" y="85" class="desc">and hibernation management.</text>
+  <text x="20" y="115" class="tech">Python • Rust • HTML/CSS • Svelte</text>
+</svg>

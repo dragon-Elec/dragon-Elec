@@ -1,9 +1,9 @@
 ### Yash Kumar
-**Software Developer | Final-Year BCA Student**
+**Software Developer | BCA Student**
 
 Specializing in high-performance system utilities, multiplatform applications, and clean architecture. Focused on Kotlin, Python, Rust, and native OS integrations.
 
-🎓 Mangalayatan University, Aligarh (Expected Oct 2026) | 📧 [yr9389121@gmail.com](mailto:yr9389121@gmail.com)
+🎓 BCA Student | 📧 [yr9389121@gmail.com](mailto:yr9389121@gmail.com)
 
 ### 🛠️ Tech Stack
 
@@ -13,12 +13,13 @@ Specializing in high-performance system utilities, multiplatform applications, a
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[Imbric](https://github.com/dragon-Elec/Imbric)** | Modern, multiplatform file manager with native OS integration. | Kotlin, Jetpack Compose |
-| **[SpaceBoard](https://github.com/dragon-Elec/space-board)** | GPU-accelerated treemap engine for massive datasets. | QML, Python |
-| **NNS** | Neural background noise suppression designed for low-end hardware. | Rust, Python |
-| **[Z-RAM Manager](https://github.com/dragon-Elec/z-manager)** | Linux utility to simplify swap devices and hibernation management. | Python, Rust, HTML/CSS, Svelte |
+<p align="left">
+  <a href="https://github.com/dragon-Elec/Imbric"><img src="./assets/readme/imbric.svg" width="400" alt="Imbric"></a>
+  <a href="https://github.com/dragon-Elec/space-board"><img src="./assets/readme/spaceboard.svg" width="400" alt="SpaceBoard"></a>
+  <br>
+  <a href="#"><img src="./assets/readme/nns.svg" width="400" alt="NNS"></a>
+  <a href="https://github.com/dragon-Elec/z-manager"><img src="./assets/readme/zram.svg" width="400" alt="Z-RAM Manager"></a>
+</p>
 
 #### 📫 Connect & Contact
 * **Email:** [yr9389121@gmail.com](mailto:yr9389121@gmail.com)
