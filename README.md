@@ -26,3 +26,6 @@
 | **[SpaceBoard](https://github.com/dragon-Elec/space-board)** | GPU-accelerated treemap engine for massive datasets. | QML, Python |
 | **NNS** | Neural background noise suppression designed for low-end hardware. | Rust, Python |
 | **[Z-RAM Manager](https://github.com/dragon-Elec/z-manager)** | Linux utility to simplify swap devices and hibernation management. | Python, Rust, HTML/CSS, Svelte |
+
+#### 📫 Connect & Contact
+* **Email:** [yr9389121@gmail.com](mailto:yr9389121@gmail.com)
