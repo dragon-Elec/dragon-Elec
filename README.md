@@ -1,3 +1,8 @@
+### Yash Kumar
+**Software Developer | Final-Year BCA Student**
+
+Final-year BCA student (Expected Oct 2026) specializing in high-performance system utilities, multiplatform applications, and clean architecture. Seeking opportunities to apply practical system-level programming skills in a real-world role.
+
 #### 🛠️ Tech Stack
 * **Languages:** Kotlin, Python, Java, JavaScript, TypeScript, HTML/CSS
 * **Frameworks & Tools:** Jetpack Compose, Git, Linux, HTMX, Tauri, React, Electron
