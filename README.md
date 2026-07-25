@@ -1,16 +1,9 @@
-<table>
-  <tr>
-    <td valign="top" width="130">
-      <img src="https://avatars.githubusercontent.com/u/197374270?v=4" width="120" style="border-radius: 4px;" />
-    </td>
-    <td valign="top">
-      <h1>Yash Kumar</h1>
-      <p><strong>Software Developer | Final-Year BCA Student</strong></p>
-      <p>Specializing in high-performance system utilities, multiplatform applications, and clean architecture. Focused on Kotlin, Python, Rust, and native OS integrations.</p>
-      <p>🎓 Mangalayatan University, Aligarh (Expected Oct 2026) | 📧 <a href="mailto:yr9389121@gmail.com">yr9389121@gmail.com</a></p>
-    </td>
-  </tr>
-</table>
+### Yash Kumar
+**Software Developer | Final-Year BCA Student**
+
+Specializing in high-performance system utilities, multiplatform applications, and clean architecture. Focused on Kotlin, Python, Rust, and native OS integrations.
+
+🎓 Mangalayatan University, Aligarh (Expected Oct 2026) | 📧 [yr9389121@gmail.com](mailto:yr9389121@gmail.com)
 
 ### 🛠️ Tech Stack
 
